@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(rgb(85, 85, 85),rgb(156, 120, 177));
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    color: white;  
+}
+
+button { 
+    border: white;
+    color: rgb(255, 255, 255);
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+input{
+    padding: 12px 20px;
+    margin: 20px;
+    color: white;
+}
+
+header{
+    
+    text-align: center;
+    position: auto;
+    width: 100%;
+    top: 0;
+    font-size: larger;
+}
+
+
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.box1{
+    border-style: groove;
+    position: auto;
+    width: 500px;
+    padding: 10px;
+    margin: 40px;
+    margin-left: 25%;
+    border-radius: 20px;
+    font-size: larger;
+    float: left;
+    align-content: center;
+  
+}
+
+.box1 img{
+    border-style: groove;
+    width: 450px;
+    height: 350px;
+    align-content: center;
+}
+
+.box2{
+    border-style: groove;
+    position: auto;
+    width: 500px;
+    padding: 10px;
+    margin: 40px;
+    margin-right: 25%;
+    border-radius: 20px;
+    font-size: larger;
+    float: right;
+    align-content: center;
+
+}
+
+.box2 img{
+    border-style: groove;
+    width: 450px;
+    height: 350px;
+    align-content: center;
+}
+
+footer{
+    
+    text-align: center;
+    position: auto;
+    width: 100%;
+    bottom: 0;
+    float: left;
+ 
+
+}
